@@ -1,6 +1,6 @@
 [submodule "api"]
   path = api
-  url = ./api
+  url = https://github.com/katsu0120/management_app_v3_api
 [submodule "front"]
   path = front
-  url = ./front		
+  url = https://github.com/katsu0120/management_app_v3_front

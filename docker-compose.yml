@@ -19,6 +19,9 @@ services:
       POSTGRES_PASSWORD: $POSTGRES_PASSWORD
       API_DOMAIN: "localhost:$FRONT_PORT"
       BASE_URL: "http://localhost:$API_PORT"
+      USER_NAME: "$USER_NAME"
+      APP_PASS: "$APP_PASS"
+      ACCOUNT_ACTIVATIONS_URL: "http://localhost:$ACCOUNT_ACTIVATIONS_URL"
     command: /bin/sh -c "rm -f tmp/pids/server.pid && bundle exec rails s -p 3000 -b '0.0.0.0'"  
     volumes:
       - "./api:/$WORKDIR"

@@ -1,11 +1,11 @@
 # ポートフォリオ紹介
 [https://management-app-v3-front.herokuapp.com](https://management-app-v3-front.herokuapp.com)
 
-Mgt_App(マネジメントアップ)はプロジェクトを社内で共有可能なプロジェクト管理ツールです。
-Projectを作成し、達成目標を「プロジェクトタイトル」として記載。
-その内容を「プロジェクト内容」として書き込みます。
-そして、そのプロジェクトを達成する為のタスクをTASK欄に追加して行き、
-全てのTASKが完了となったら、PROJECTを完了させるという設計です。
+Mgt_App(マネジメントアップ)はプロジェクトを社内で共有可能なプロジェクト管理ツールです。<br>
+Projectを作成し、達成目標を「プロジェクトタイトル」として記載。<br>
+その内容を「プロジェクト内容」として書き込みます。<br>
+そして、そのプロジェクトを達成する為のタスクをTASK欄に追加して行き、<br>
+全てのTASKが完了となったら、PROJECTを完了させるという設計です。<br>
 
 #### トップページ
 ![top_image](https://user-images.githubusercontent.com/87424854/177262116-e8f4c3b8-ef8d-48d2-b2f3-b3e8bdb477ad.png)
@@ -16,13 +16,13 @@ Mgt_Appでは2つのプロジェクト管理方法があります。
 ### カンパニープロジェクト
 ![company_project_image](https://user-images.githubusercontent.com/87424854/177258825-6c5f5e0c-ea8b-4f15-a43a-4ce2a3ca21f4.png)
 
-カンパニープロジェクトとは、カンパニー参加ユーザーと共有するプロジェクトの事です。
+カンパニープロジェクトとは、カンパニー参加ユーザーと共有するプロジェクトの事です。<br>
 チームでプロジェクトの完了を目指す場合に使用します。
 
 ### パーソナルプロジェクト
 ![company_project_image](https://user-images.githubusercontent.com/87424854/177264416-6aa1bba6-3e21-4c5d-b933-211e63e4df88.png)
 
-パーソナルプロジェクトとは、他者と共有しない個人のプロジェクトの事です。
+パーソナルプロジェクトとは、他者と共有しない個人のプロジェクトの事です。<br>
 個人でプロジェクトの完了を目指す場合に使用します。
 
 

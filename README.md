@@ -30,8 +30,7 @@ Mgt_Appでは2つのプロジェクト管理方法があります。
 
 スマホ利用も想定したUI設計。
 
-![responsible_design_image](https://user-images.githubusercontent.com/87424854/177262576-eb49c11d-ea95-47f7-ac24-2743d076a15d.png)
-
+<img width="273" alt="image" src="https://user-images.githubusercontent.com/87424854/177299244-b3fc7376-834f-4806-abcf-0485e3b77bd6.png">
 # ポートフォリオに使用した技術
 
 #### 各バージョン
